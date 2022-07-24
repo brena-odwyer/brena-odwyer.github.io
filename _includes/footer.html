@@ -1,0 +1,16 @@
+<div class="bo-footer">
+    <img class="bo-profile-picture" src="{{ "/assets/images/profile.jpeg" | relative_url }}" alt="{{ page.profile-picture-alt }}" />
+
+    <p>
+        <a class="bo-link" href="mailto:odwyer.brena@gmail.com">
+            odwyer.brena@gmail.com
+        </a>
+    </p>
+    <div class="bo-social-medias">
+        {% for media in site.social_medias %}
+        <a class="bo-social-media" href="{{media.siteUrl}}" title="{{media.title}}" alt="{{media.title}}" target="_blank" rel="noopener noreferrer">
+            {%- include social-medias/{{media.title}}.svg -%}
+        </a>
+        {% endfor %}
+    </div>
+</div>
