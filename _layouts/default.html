@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ "/assets/css/minireset.css" | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+  </head>
+  <body>
+    <section class="bo-bounds">
+      {%- include navigation.html -%}
+      <div class="bo-content">
+        <div class="bo-column-right">
+          {%- include footer.html -%}
+        </div>
+        <div class="bo-column-left">
+          {{ content }}
+        </div>
+      </div>
+    </section>
+  </body>
+</html>

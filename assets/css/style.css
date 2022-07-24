@@ -1,0 +1,115 @@
+body {
+    background-color: white;
+    margin: 32px 16px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    margin-bottom: 12px;
+}
+
+.bo-bounds {
+    max-width: 960px;
+    margin: auto;
+}
+
+.bo-title {
+    color: black;
+    font-size: 32px;
+    font-weight: 600;
+    margin: 0px;
+}
+
+.bo-navigation {
+    border-bottom: 2px solid #EEEEEE;
+    margin-bottom: 32px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.bo-language-links {
+    text-align: right;
+}
+
+a,
+a:visited,
+.bo-link,
+.bo-link:visited,
+.bo-language-link,
+.bo-language-link:visited {
+    font-size: 14px;
+    text-decoration: underline;
+    color: #000000;
+}
+
+a:hover,
+.bo-link,
+.bo-language-link:hover {
+    color: #3f3f3f;
+}
+
+.bo-language-link:not(:first-child) {
+    margin-left: 8px;
+}
+
+.bo-column-right {
+    width: 100%;
+}
+
+.bo-profile-picture {
+    height: 150px;
+    border-radius: 50%;
+}
+
+.bo-footer {
+    text-align: center;
+    width: 100%;
+}
+
+.bo-social-medias {
+    margin-top: 12px;
+}
+
+.bo-social-media:not(:last-child) {
+    margin-right: 16px;
+}
+
+.bo-social-media:hover svg path {
+    fill: #3f3f3f;
+}
+
+pre,
+code {
+    background-color: #EEEEEE;
+}
+
+code {
+    padding: 2px;
+    border-radius: 2px;
+}
+pre {
+    padding: 8px;
+    border-radius: 4px;
+}
+
+@media screen and (min-width: 544px) {
+    .bo-content {
+        display: flex;
+    }
+
+    .bo-column-right {
+        width: 200px;
+        flex-shrink: 0;
+    }
+
+    .bo-column-left {
+        flex-grow: 1;
+    }
+}
