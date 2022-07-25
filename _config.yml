@@ -32,7 +32,6 @@ exclude:
   - Gemfile.lock
 
 # Build settings
-theme: minima
 plugins:
   - jekyll-feed
 
