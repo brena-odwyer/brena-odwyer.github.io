@@ -36,8 +36,8 @@ Visithing schoolar period at Columbia Univeristy, New York (2019-2020).
 
 
 
-### 2014 - 2016 - Mesters
-Public Healht, State University of Rio de Janeiro, Social Medicine Institute.
+### 2014 - 2016 - Masters
+Public Health, State University of Rio de Janeiro, Social Medicine Institute.
 
 Concentration themes: gender, human rights.
 
@@ -70,7 +70,7 @@ such as: Companhia das Letras,
 Papéis Selvagens, Vista Chinesa Publishing House
 and Editora Dialética, among others.
 
-I also worked with NGOs,
+I have also worked with NGOs,
 institutions, universities and large
 brands such as: Light for the World,
 Kyyo, Oswaldo Cruz Foundation, Federal University of Rio de Janeiro,
