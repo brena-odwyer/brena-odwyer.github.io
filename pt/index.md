@@ -33,20 +33,18 @@ inglês fluente.
 
 
 ### 2017 - 2022 - Doutorado
-Universidade Federal do Rio de Janeiro
-Programa de Pós-Graduação Antropologia
-Social
+Antropologia - Universidade Federal do Rio de Janeiro, Programa de Pós-Graduação Antropologia
+Social.
 
 Concentração: gênero e direitos humanos
 Período Sanduíche: Columbia University,
-New York
+New York (2019-2020).
 
 
 ### 2014 - 2016 - Mestrado
-Universidade do Estado do Rio de Janeiro
-Instituto de Medicina Social
+Ciências da saúde - Universidade do Estado do Rio de Janeiro, Instituto de Medicina Social.
 
-Concentração: gênero e direitos humanos
+Concentração: gênero e direitos humanos.
 
 ## Skills
 ### Hard skills
@@ -61,14 +59,11 @@ Concentração: gênero e direitos humanos
 * Automação de testes
 * Autenticação e verificação
 
-
-
 ### Soft skills
 * Gestão de projetos
 * Trabalho em equipe
 * Comunicação assertiva
 * Organização e gestão de tempo
-
 
 
 ## Experiência
@@ -86,4 +81,4 @@ Também trabalhei com ONGs,
 instituições, universidades e grandes
 marcas como: Light for the World,
 Kyyo, Fundação Oswaldo Cruz, UFRJ,
-Revista O'Cyano e Cerveja Praya..
+Revista O'Cyano e Cerveja Praya.
