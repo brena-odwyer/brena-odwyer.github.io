@@ -4,8 +4,8 @@
 }
 
 .bo-title {
+    font-size: 24px;
     color: black;
-    font-size: 32px;
     font-weight: 600;
     margin: 0px;
 }
@@ -28,19 +28,19 @@ a:visited,
 .bo-link:visited,
 .bo-language-link,
 .bo-language-link:visited {
-    font-size: 14px;
     text-decoration: underline;
     color: #000000;
+}
+
+.bo-language-link {
+    font-size: 14px;
+    margin-left: 8px;
 }
 
 a:hover,
 .bo-link,
 .bo-language-link:hover {
     color: #3f3f3f;
-}
-
-.bo-language-link:not(:first-child) {
-    margin-left: 8px;
 }
 
 .bo-column-right {
@@ -70,6 +70,9 @@ a:hover,
 }
 
 @media screen and (min-width: 544px) {
+    .bo-title {
+        font-size: 32px;
+    }
     .bo-content {
         display: flex;
     }
@@ -81,5 +84,6 @@ a:hover,
 
     .bo-column-left {
         flex-grow: 1;
+        margin-left: 24px;
     }
 }
