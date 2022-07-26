@@ -64,6 +64,7 @@ table tr:nth-child(2n) {
     background-color: #EEEEEE;
 }
 
+ol,
 ul {
     padding-left: 24px;
 }
