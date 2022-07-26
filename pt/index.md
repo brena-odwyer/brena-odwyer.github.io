@@ -20,15 +20,17 @@ produção de conteúdo.
 Experiência em gestão de projetos e
 inglês fluente.
 
+<div>
 
 ## Educação
 ### 2022 - {Reprograma} Curso Todas em Tech - Back-End
-* Lógica de programação
-* JavaScript
-* Node.JS
-* API Rest
-* CRUD
-* Bando de dados
+`Lógica de programação`
+`JavaScript`
+`Node.JS`
+`API Rest`
+`CRUD`
+`Bando de dados`
+<div>
 
 ### 2017 - 2022 - Doutorado
 Universidade Federal do Rio de Janeiro
@@ -38,6 +40,7 @@ Social
 Concentração: gênero e direitos humanos
 Período Sanduíche: Columbia University,
 New York
+<div>
 
 ### 2014 - 2016 - Mestrado
 Universidade do Estado do Rio de Janeiro
@@ -58,6 +61,7 @@ Concentração: gênero e direitos humanos
 * Automação de testes
 * Autenticação e verificação
 
+<div>
 
 ### Soft skills
 * Gestão de projetos
@@ -65,6 +69,7 @@ Concentração: gênero e direitos humanos
 * Comunicação assertiva
 * Organização e gestão de tempo
 
+<div>
 
 ## Experiência
 ### 2016 - atual
