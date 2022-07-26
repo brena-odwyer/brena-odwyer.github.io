@@ -9,9 +9,23 @@ h2,
 h3,
 h4,
 h5,
+h6 {
+    margin-top: 16px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
 h6,
 p {
     margin-bottom: 12px;
+}
+
+h1,
+h2 {
+    border-bottom: 1px solid #DEDEDEDE;
 }
 
 pre,
@@ -32,6 +46,10 @@ table {
     border-radius: 12px;
 }
 
+hr {
+    border: 1px solid #EEEEEE;
+}
+
 table th,
 table td {
     padding: 8px 4px;
@@ -44,4 +62,15 @@ table tr {
 
 table tr:nth-child(2n) {
     background-color: #EEEEEE;
+}
+
+ol,
+ul {
+    padding-left: 24px;
+}
+
+blockquote {
+    padding: 0 12px;
+    color: #717171;
+    border-left: 2px solid #bdbdbd;
 }
