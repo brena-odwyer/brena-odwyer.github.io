@@ -6,19 +6,13 @@ profile-picture-alt: >-
 ---
 
 # Perfil pessoal
-Antropóloga e tradutora realizando
-transição de carreira para a área de
-tecnologia, desenvolvimento back-end
-com foco em JavaScript.
+Desenvolvedora back-end, com foco em JavaScript NodeJS, API rest, MongoBD,GitHub e git.
 
-Doutora em antropologia com foco em
-direitos humanos, diversidade e
-inclusão, com experiência profissional
-em tradução, revisão, edição e
-produção de conteúdo.
+Antropóloga de formação, trabalhei como tradutora, copywriter, UX writer e redatora de conteúdo digital, principalmente no marketing, e agora almejo uma oportunidade na área de  tecnologia.
 
-Experiência em gestão de projetos e
-inglês fluente.
+Experiência em gestão de projetos e inglês fluente.
+
+TOEFL score: 106 (2018)
 
 
 
@@ -39,12 +33,6 @@ Social.
 Concentração: gênero e direitos humanos
 Período Sanduíche: Columbia University,
 New York (2019-2020).
-
-
-### 2014 - 2016 - Mestrado
-Ciências da saúde - Universidade do Estado do Rio de Janeiro, Instituto de Medicina Social.
-
-Concentração: gênero e direitos humanos.
 
 ## Skills
 ### Hard skills
@@ -67,11 +55,14 @@ Concentração: gênero e direitos humanos.
 
 
 ## Experiência
-### 2016 - atual
-Freelancer. Tradutora (eng-pt), editora,
-revisora e produtora de conteúdo
-digital.
+### 2020 - atual
+#### Copywriter, UX e redatora de conteúdo - Cerveja Praya
+Produção de conteúdo escrito para
+mídias sociais, ações, site e campanhas
+no marketing.
 
+### 2016 - atual
+#### Freelancer. Tradutora (eng<>pt), editora revisora e produtora de conteúdo digital.
 Trabalhei com grandes editoras
 nacionais como: Companhia das Letras,
 Papéis Selvagens, Editora Vista Chinesa

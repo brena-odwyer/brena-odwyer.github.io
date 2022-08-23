@@ -5,17 +5,13 @@ profile-picture-alt: The picture shows Brena O'Dwyer, a white latina woman with 
 ---
 
 # About me
-Anthropologist and translator transitioning to backend development
-with a focus on JavaScript.
+Back-end developer, focusing on NodeJS JavaScript, rest API, MongoBD, GitHub and git.
 
-PhD in Anthropology with a focus on
-human rights, diversity and
-inclusion, with professional experience
-in translation, proofreading, editing, copywriting and
-content production.
+An anthropologist by training, I worked as a translator, copywriter, UX writer and digital content writer, mainly in marketing, and now I'm looking for an opportunity in the technology area.
 
-Experience in project management and
-fluent English.
+Experience in project management and fluent English.
+
+TOEFL score: 106 (2018)
 
 
 ## Education
@@ -33,13 +29,6 @@ Social Anthropology, Federal University of Rio de Janeiro.
 
 Concentration themes: gender, human rights.
 Visithing schoolar period at Columbia Univeristy, New York (2019-2020).
-
-
-
-### 2014 - 2016 - Masters
-Public Health, State University of Rio de Janeiro, Social Medicine Institute.
-
-Concentration themes: gender, human rights.
 
 ## Skills
 ### Hard skills
@@ -62,16 +51,16 @@ Concentration themes: gender, human rights.
 
 
 ## Experience
-### 2016 - current
-Freelancer. Translator (eng-pt), editor, and copywriter.
+### 2020 - current
+#### Copywriter, UX writer - Cerveja Praya
+Production of written content for
+social media, actions, website and campaigns in marketing.
 
+### 2016 - current
+#### Freelancer. Translator (eng<>pt), revisor, editor and copywriter.
 I worked with major Brazilian publishers
 such as: Companhia das Letras,
-Papéis Selvagens, Vista Chinesa Publishing House
+Papéis Selvagens, Vista Chinesa 
 and Editora Dialética, among others.
 
-I have also worked with NGOs,
-institutions, universities and large
-brands such as: Light for the World,
-Kyyo, Oswaldo Cruz Foundation, Federal University of Rio de Janeiro,
-O'Cyano Magazine and Praya Beer.
+I also worked with NGOs institutions, universities and large brands such as: Light for the World, Kyyo, Oswaldo Cruz Foundation, UFRJ, O'Cyano Magazine and Praya Beer.
