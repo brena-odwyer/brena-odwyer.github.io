@@ -23,6 +23,8 @@ TOEFL score: 106 (2018)
 `CRUD`
 `Database`
 
+### 2023 - current - Software Analysis and Development
+Associate degree - Descomplica.
 
 ### 2017 - 2022 - PhD
 Social Anthropology, Federal University of Rio de Janeiro.
@@ -51,12 +53,16 @@ Visithing schoolar period at Columbia Univeristy, New York (2019-2020).
 
 
 ## Experience
-### 2020 - current
+### 2022 - current
+#### Back-end developer - Zenvia
+Back End developer with JavaScript, working on a chatbot that has over 30 thousand interactions a day.
+
+### 2020 - 2022
 #### Copywriter, UX writer - Cerveja Praya
 Production of written content for
 social media, actions, website and campaigns in marketing.
 
-### 2016 - current
+### 2016 - 2022
 #### Freelancer. Translator (eng<>pt), revisor, editor and copywriter.
 I worked with major Brazilian publishers
 such as: Companhia das Letras,

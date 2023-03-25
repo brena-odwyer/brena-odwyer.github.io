@@ -25,6 +25,8 @@ TOEFL score: 106 (2018)
 `CRUD`
 `Bando de dados`
 
+### 2023 - atual - Análise e desenvolvimento de sistemas
+Tecnólogo - Descomplica.
 
 ### 2017 - 2022 - Doutorado
 Antropologia - Universidade Federal do Rio de Janeiro, Programa de Pós-Graduação Antropologia
@@ -55,13 +57,17 @@ New York (2019-2020).
 
 
 ## Experiência
-### 2020 - atual
+### 2022 - atual
+#### Back-end developer - Zenvia
+Desenvolvedora Back-End em JavaScript trabalhando em um chatbot com mais de 30  mil interações por dia.
+
+### 2020 - 2022
 #### Copywriter, UX e redatora de conteúdo - Cerveja Praya
 Produção de conteúdo escrito para
 mídias sociais, ações, site e campanhas
 no marketing.
 
-### 2016 - atual
+### 2016 - 2022
 #### Freelancer. Tradutora (eng<>pt), editora revisora e produtora de conteúdo digital.
 Trabalhei com grandes editoras
 nacionais como: Companhia das Letras,
