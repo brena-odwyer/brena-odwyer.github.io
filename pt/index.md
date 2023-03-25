@@ -14,48 +14,6 @@ Experiência em gestão de projetos e inglês fluente.
 
 TOEFL score: 106 (2018)
 
-
-
-## Educação
-### 2022 - {Reprograma} Curso Todas em Tech - Back-End
-`Lógica de programação`
-`JavaScript`
-`Node.JS`
-`API Rest`
-`CRUD`
-`Bando de dados`
-
-### 2023 - atual - Análise e desenvolvimento de sistemas
-Tecnólogo - Descomplica.
-
-### 2017 - 2022 - Doutorado
-Antropologia - Universidade Federal do Rio de Janeiro, Programa de Pós-Graduação Antropologia
-Social.
-
-Concentração: gênero e direitos humanos
-Período Sanduíche: Columbia University,
-New York (2019-2020).
-
-## Skills
-### Hard skills
-* JavaScript
-* Node.Js
-* API Rest
-* MongoDB
-* Mongoose
-* Express
-* GitFlow
-* Versionamento de código
-* Automação de testes
-* Autenticação e verificação
-
-### Soft skills
-* Gestão de projetos
-* Trabalho em equipe
-* Comunicação assertiva
-* Organização e gestão de tempo
-
-
 ## Experiência
 ### 2022 - atual
 #### Back-end developer - Zenvia
@@ -79,3 +37,44 @@ instituições, universidades e grandes
 marcas como: Light for the World,
 Kyyo, Fundação Oswaldo Cruz, UFRJ,
 Revista O'Cyano e Cerveja Praya.
+
+
+## Skills
+### Hard skills
+* JavaScript
+* Node.Js
+* API Rest
+* MongoDB
+* Mongoose
+* Express
+* GitFlow
+* Versionamento de código
+* Automação de testes
+* Autenticação e verificação
+* HTML/CSS
+
+### Soft skills
+* Gestão de projetos
+* Trabalho em equipe
+* Comunicação assertiva
+* Organização e gestão de tempo
+
+## Educação
+### 2022 - {Reprograma} Curso Todas em Tech - Back-End
+`Lógica de programação`
+`JavaScript`
+`Node.JS`
+`API Rest`
+`CRUD`
+`Bando de dados`
+
+### 2023 - atual - Análise e desenvolvimento de sistemas
+Tecnólogo - Descomplica.
+
+### 2017 - 2022 - Doutorado
+Antropologia - Universidade Federal do Rio de Janeiro, Programa de Pós-Graduação Antropologia
+Social.
+
+Concentração: gênero e direitos humanos
+Período Sanduíche: Columbia University,
+New York (2019-2020).

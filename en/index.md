@@ -13,45 +13,6 @@ Experience in project management and fluent English.
 
 TOEFL score: 106 (2018)
 
-
-## Education
-### 2022 - {Reprograma} Back-End Bootcamp
-`Programming logic`
-`JavaScript`
-`Node.JS`
-`API Rest`
-`CRUD`
-`Database`
-
-### 2023 - current - Software Analysis and Development
-Associate degree - Descomplica.
-
-### 2017 - 2022 - PhD
-Social Anthropology, Federal University of Rio de Janeiro.
-
-Concentration themes: gender, human rights.
-Visithing schoolar period at Columbia Univeristy, New York (2019-2020).
-
-## Skills
-### Hard skills
-* JavaScript
-* Node.Js
-* API Rest
-* MongoDB
-* Mongoose
-* Express
-* GitFlow
-* Version control
-* Tests
-* Authentication
-
-### Soft skills
-* Project management
-* Teamwork
-* Assertive communication
-* Time management
-
-
 ## Experience
 ### 2022 - current
 #### Back-end developer - Zenvia
@@ -70,3 +31,41 @@ Papéis Selvagens, Vista Chinesa
 and Editora Dialética, among others.
 
 I also worked with NGOs institutions, universities and large brands such as: Light for the World, Kyyo, Oswaldo Cruz Foundation, UFRJ, O'Cyano Magazine and Praya Beer.
+
+## Skills
+### Hard skills
+* JavaScript
+* Node.Js
+* API Rest
+* MongoDB
+* Mongoose
+* Express
+* GitFlow
+* Version control
+* Tests
+* Authentication
+* HTML/CSS
+
+### Soft skills
+* Project management
+* Teamwork
+* Assertive communication
+* Time management
+
+## Education
+### 2022 - {Reprograma} Back-End Bootcamp
+`Programming logic`
+`JavaScript`
+`Node.JS`
+`API Rest`
+`CRUD`
+`Database`
+
+### 2023 - current - Software Analysis and Development
+Associate degree - Descomplica.
+
+### 2017 - 2022 - PhD
+Social Anthropology, Federal University of Rio de Janeiro.
+
+Concentration themes: gender, human rights.
+Visithing schoolar period at Columbia Univeristy, New York (2019-2020).
