@@ -17,18 +17,25 @@ Experience in project management, agile methogologies, fluent in Portuguese and 
 ### 2022 - 2023
 #### Back-end developer - Zenvia
 •	Chatbot Development: Integral member of a specialized team developing a high-traffic chatbot for Rio de Janeiro’s electricity company, serving over 30,000 daily users on WhatsApp on a SaaS environment.
+
 •	Client Collaboration & Feature Development: Actively engage in client meetings to discern requirements, propose innovative features, and ensure alignment with business objectives. Collaborate closely with the UX team to design and conceptualize features, ensuring client approval before implementation.
+
 •	Agile Workflow & Tool Proficiency: Championed the use of Agile methodologies in project execution, leveraging tools such as Jira, PSOffice, and Azure for seamless project management and deployment.
+
 •	Technical Expertise: Utilize a robust tech stack, including NodeJS, Git, and GitHub, for efficient feature development, version control, and collaboration. Rigorous testing and debugging processes ensure optimal functionality before deployment.
+
 •	Technical writing: authored technical documentation, user guides, and API references, ensuring clarity and comprehensibility for diverse audiences.
 
 
 ### 2020 - 2022
 #### UX researcher, UX writer - Cerveja Praya
 •	Content Creation & Marketing: Developed comprehensive marketing campaigns, crafted website content, and curated personalized messages for customers. Authored press releases and tailored communications for influencer collaborations and promotional gifts.
+
 •	User Interface & Experience: Designed and penned the complete user journey within our apps, ensuring a seamless and intuitive experience for consumers.
 •	Consistency & Collaboration: Worked closely with designers, product managers, and developers to maintain uniformity in language and tone across all brand touchpoints.
+
 •	User-Centric Research: Orchestrated focus groups to glean insights on product presentation within supermarkets and delivery apps. Conducted user research to refine language preferences, enhancing user engagement and comprehension.
+
 •	Persona Development: Created detailed user personas and scenarios, providing a foundational guide for content strategy and decision-making processes.
 
 
